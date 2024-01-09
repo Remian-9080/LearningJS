@@ -1,15 +1,9 @@
+function sum(a,b)
+{
+    console.log(a+b);
+}
 
-const student={
-     name:"Rakib",
-     Id: 192
-}
-let r="Rakib";
-for(let i of r)
+const ar (a,b) => 
 {
-    console.log("val of I is", i);
-}
-console.log(typeof(student));
-for( let j in student)
-{
-    console.log(student[j]);
-}
+    console.log(a+b);
+};
