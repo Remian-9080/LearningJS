@@ -1,5 +1,5 @@
-const arrowmul=(a,b)=>{
-    console.log(a*b)
-};
-console.log(arrowmul(8,9));
-console.log(arrowmul(9,9));
+let arr= [1,2,3,4,5,6];
+arr.forEach((val)=>
+{
+console.log(val*val);
+});
